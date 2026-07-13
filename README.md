@@ -105,7 +105,7 @@ A JavaScript application designed to help users build and maintain productive da
 
 ## 📫 Connect With Me
 
-- 📧 Email: **your-email@example.com**
+- 📧 Email: **Gareth.motloutsi@gmail.com**
 - 💼 LinkedIn: *Coming Soon*
 - 🌐 Portfolio: *Coming Soon*
 
