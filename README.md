@@ -190,13 +190,12 @@ A React application that consumes external API data, supports dynamic searching 
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GarethMalekaMotloutsi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarethMalekaMotloutsi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GarethMalekaMotloutsi&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarethMalekaMotloutsi&theme=github_dark" />
+
 </p>
 
 ---
