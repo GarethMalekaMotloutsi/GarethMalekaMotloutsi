@@ -1,223 +1,326 @@
 <h1 align="center">Hi 👋, I'm Gareth Maleka Motloutsi</h1>
 
 <h3 align="center">
-Software Developer | React • TypeScript • C# • .NET
+Software Developer | Application Development | React • TypeScript • C# • .NET
 </h3>
 
 <p align="center">
-Passionate about designing and developing modern software solutions that are scalable, user-focused and built with clean, maintainable code.
+I build practical software solutions across web, API and desktop applications, with a focus on clean architecture, responsive interfaces and solving real business problems.
 </p>
 
 <p align="center">
-🇿🇦 South Africa • Open to Graduate Software Developer, Internship & Junior Software Developer Opportunities
+🇿🇦 South Africa • Open to Graduate Software Developer, Junior Software Developer & Internship Opportunities
+</p>
+
+<p align="center">
+<a href="https://github.com/GarethMalekaMotloutsi">
+  <img src="https://img.shields.io/badge/GitHub-GarethMalekaMotloutsi-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
 
 ---
 
-# 💼 Professional Profile
+# 👨🏽‍💻 About Me
 
-I'm a Software Developer with practical experience developing responsive web applications, desktop applications and software solutions using modern technologies including React, TypeScript, JavaScript, C#, .NET, Java and SQL.
+I'm a Software Developer focused on building modern, practical software solutions.
 
-I enjoy solving real-world problems through technology while building software that is intuitive, reliable and maintainable. My experience spans individual and collaborative software projects where I've focused on writing clean code, creating responsive user interfaces and continuously improving my technical skills.
+My development experience includes **React, TypeScript, JavaScript, C#, .NET, Java, SQL and MySQL**, with hands-on work across web applications, REST APIs and desktop software.
 
-I believe great software is created through thoughtful design, continuous learning and a commitment to delivering solutions that provide real value.
+I enjoy taking an idea or real-world problem and turning it into a working software solution — from designing the user interface and application structure to implementing functionality, working with data and testing the final result.
 
----
+My current focus is strengthening my software engineering skills through real projects, improving my understanding of application architecture and continuing to build solutions that are reliable, maintainable and useful.
 
-# 🎓 Education
-
-**Bachelor of Computer and Information Sciences in Application Development (BCAD)** *(Currently Completing)*
-
-**Higher Certificate in Information Technology**
+I am particularly interested in opportunities where I can contribute to a development team, learn from experienced engineers and grow into a strong Software Engineer.
 
 ---
 
-# 🏆 Professional Certifications
+# 🧠 What I Work With
 
-- Introduction to Artificial Intelligence
-- Introduction to Cybersecurity
-- Introduction to Data Analytics
-- Cisco Networking Academy – HTML Essentials
+### Frontend Development
 
----
-
-# 🚀 Technical Expertise
-
-## Programming Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
----
-
-## Front-End Development
-
-<p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
-
-</p>
-
----
-
-## Frameworks & Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet"/>
-
-<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-</p>
-
----
-
-## Development Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-</p>
-
----
-
-# 💡 Core Competencies
-
-- Software Development
-- Front-End Development
-- Web Application Development
-- Desktop Application Development
-- Object-Oriented Programming
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
 - Responsive Web Design
-- Component-Based Architecture
-- REST API Integration
+- Component-Based Development
+
+### Backend & APIs
+
+- Node.js
+- Express.js
+- REST API Development
+- API Integration
+- CRUD Operations
+- Middleware
+- Async/Await
+- JSON & File-Based Persistence
+
+### Microsoft & Application Development
+
+- C#
+- .NET
+- WPF
+- Object-Oriented Programming
+
+### Databases
+
+- SQL
+- MySQL
 - Database Design
-- Git Version Control
-- GitHub Collaboration
-- Agile Team Collaboration
-- UI/UX Design
-- Technical Documentation
-- Software Testing
-- Problem Solving
+- Data Management
+
+### Development Tools
+
+- Git
+- GitHub
+- GitHub Desktop
+- Visual Studio
+- Visual Studio Code
+- Figma
+- Vercel
 
 ---
 
 # 🚀 Featured Projects
 
+## ⚡ TaskForge API
+
+A RESTful task management API built with **Node.js and Express**.
+
+The project demonstrates backend development concepts including:
+
+- RESTful API design
+- CRUD operations
+- Express routing
+- Custom middleware
+- Request logging
+- Async/await
+- File-based persistence using `fs.promises`
+- Input validation
+- Centralized error handling
+- Asynchronous task verification
+- Static frontend integration
+- Vercel deployment
+
+🔗 **Repository:**  
+https://github.com/GarethMalekaMotloutsi/taskforge-api
+
+🔗 **Live Application:**  
+https://taskforge-api-phi.vercel.app/
+
+---
+
 ## 🛒 Founder Capstone
 
-A modern marketplace application built using React, TypeScript and Vite with a strong emphasis on responsive design, reusable components and intuitive user experience.
+A modern marketplace application developed with **React, TypeScript and Vite**.
+
+The project focuses on creating a responsive user experience through reusable components, structured application development and modern frontend technologies.
+
+**Tech:** React • TypeScript • Vite
+
+🔗 **Live Project:**  
+https://founder-capstone-nine.vercel.app/
 
 ---
 
-## 📊 Project Management Dashboard
+## 🏗️ Johachisi Construction Website Redesign
 
-A collaborative dashboard application developed within a software development team, demonstrating modern React development, GitHub collaboration and project organisation.
+A complete website redesign focused on creating a more professional and modern digital presence for a construction business.
 
----
+The project demonstrates:
 
-## 🏗 Johachisi Construction Website Redesign
+- React component architecture
+- TypeScript
+- Tailwind CSS
+- Responsive design
+- Reusable UI components
+- Modern website structure
+- Deployment using Vercel
 
-A complete redesign of a construction company website using React and Tailwind CSS to deliver a professional, responsive and modern user experience.
-
----
-
-## 📈 Team Claude Mini Spreadsheet
-
-A JavaScript spreadsheet application implementing dependency tracking, cascading updates and logical formula evaluation.
-
----
-
-## ✅ Daily Habit Tracker
-
-A responsive JavaScript application focused on helping users build productive daily habits through a simple and intuitive interface.
+**Tech:** React • TypeScript • Tailwind CSS • Vite
 
 ---
 
 ## 👥 User Directory Application
 
-A React application that consumes external API data, supports dynamic searching and demonstrates component-based architecture and state management.
+A React application that consumes external API data and provides a searchable user directory.
+
+The project demonstrates:
+
+- API data fetching
+- React state management
+- Controlled inputs
+- Search functionality
+- Component-based development
+- Form handling
+- Loading and empty states
+
+**Tech:** React • JavaScript • Vite
+
+🔗 **Live Project:**  
+https://user-directory-app-five.vercel.app/
 
 ---
 
-# 🌱 Currently Exploring
+## 📊 Project Management Dashboard
+
+A collaborative application developed as part of a software development team.
+
+The project provided practical experience with:
+
+- React development
+- Component-based architecture
+- GitHub collaboration
+- Team-based development
+- Project organisation
+- Building interfaces around real application requirements
+
+---
+
+## 📈 Team Claude Mini Spreadsheet
+
+A JavaScript spreadsheet application exploring more advanced frontend logic.
+
+The project includes functionality around:
+
+- Spreadsheet-style data entry
+- Dependency tracking
+- Cascading updates
+- Logical formula evaluation
+- Dynamic application behaviour
+
+**Tech:** JavaScript
+
+---
+
+## ✅ Daily Habit Tracker
+
+A responsive JavaScript application designed around simple daily habit management.
+
+The project focuses on:
+
+- User interaction
+- Dynamic UI updates
+- Responsive design
+- JavaScript application logic
+
+**Tech:** JavaScript • HTML • CSS
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer and Information Sciences in Application Development
+
+**Currently Completing**
+
+### Higher Certificate in Information Technology
+
+---
+
+# 🏆 Certifications
+
+- Introduction to Artificial Intelligence
+- Introduction to Cybersecurity
+- Introduction to Data Analytics
+- Cisco Networking Academy — HTML Essentials
+
+---
+
+# 💡 Core Engineering Skills
+
+- Software Development
+- Web Application Development
+- REST API Development
+- Frontend Development
+- Desktop Application Development
+- Object-Oriented Programming
+- Responsive UI Development
+- Component-Based Architecture
+- API Integration
+- Database Design
+- Git Version Control
+- Software Testing
+- Debugging
+- Technical Documentation
+- Problem Solving
+- Team Collaboration
+
+---
+
+# 🔧 Development Approach
+
+I try to approach software development with a few principles in mind:
+
+**Build for the problem first.**  
+Understand what the application needs to achieve before deciding how to build it.
+
+**Keep things maintainable.**  
+Separate responsibilities, use reusable components and avoid unnecessary complexity.
+
+**Test what you build.**  
+A feature is not finished simply because it works once. I aim to test expected behaviour, edge cases and failure scenarios.
+
+**Keep learning.**  
+Technology changes quickly, so I continuously work on improving both my technical skills and understanding of software engineering principles.
+
+---
+
+# 🌱 Currently Developing My Skills In
 
 - Advanced React
-- Advanced TypeScript
+- TypeScript
 - .NET Development
+- REST API Architecture
 - Software Architecture
 - Clean Code
 - Design Patterns
 - Full-Stack Development
-- Cloud Technologies
+- Cloud Deployment
+- Application Security
 - Artificial Intelligence
 
 ---
 
-# 📊 GitHub Analytics
-
-## 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarethMalekaMotloutsi&theme=github_dark" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GarethMalekaMotloutsi&theme=github_dark" />
 </p>
 
 ---
 
-# 🎯 Professional Goals
+# 🎯 Career Direction
 
-- Build scalable software solutions that solve real-world problems.
-- Grow into a highly skilled Software Engineer.
-- Contribute to impactful software projects.
-- Continue expanding my expertise across modern software technologies.
-- Collaborate with teams that value innovation, quality and continuous improvement.
+I'm working toward becoming a strong **Software Engineer** capable of contributing across the application development lifecycle.
+
+My goal is to continue developing the technical depth to:
+
+- Design and build reliable software
+- Develop scalable web and API solutions
+- Work effectively within engineering teams
+- Understand software architecture
+- Solve complex technical problems
+- Build products that provide real value to users and businesses
+
+I'm currently open to **Graduate Software Developer, Junior Software Developer and Internship opportunities** where I can contribute, learn and grow within a strong engineering environment.
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-📧 **Email**
+📧 **Email:**  
+Gareth.motloutsi@gmail.com
 
-**Gareth.motloutsi@gmail.com**
+💻 **GitHub:**  
+https://github.com/GarethMalekaMotloutsi
 
 ---
 
-# 💭 Philosophy
+# 💭 Engineering Philosophy
 
-> *"Technology is most powerful when it solves meaningful problems. Every project is an opportunity to learn, improve and build software that creates lasting value."*
+> "Good software isn't just about making something work. It's about understanding the problem, building the right solution and making it reliable enough for someone else to depend on."
